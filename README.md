@@ -1,3 +1,5 @@
+This is the final README.md combining both versions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# FUTURE_BC_05
+Track live crypto prices and portfolio value using React, CoinGecko API, and Chart.js.
+ 5f1d777663b8ce4fe4f8cbb5716c7abda65a7c1e
